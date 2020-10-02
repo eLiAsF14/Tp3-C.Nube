@@ -1,20 +1,20 @@
 {
-    "name": "tp3",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/Maxisadas/Trabajo_Practico3.git"
-    },
-    "author": "Guerrero Maximiliano Raul",
-    "license": "ISC",
-    "homepage": "https://github.com/Maxisadas/Trabajo_Practico3",
-    "dependencies": {
-        "aws-sdk": "^2.764.0",
-        "uniqid": "^5.2.0"
-    }
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eLiAsF14/Tp3-C.Nube.git"
+  },
+  "author": "Falcon Elias Ezequiel",
+  "license": "ISC",
+  "homepage": "https://github.com/eLiAsF14/Tp3-C.Nube.git",
+  "dependencies": {
+    "aws-sdk": "^2.764.0",
+    "uniqid": "^5.2.0"
+  }
 }
